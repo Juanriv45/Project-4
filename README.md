@@ -1,4 +1,4 @@
-The main.js file was optimized by moving variables from the for loops of the changePizzaSizes and updatePositions functions to the outside of the loop. The variables that were moved were not needed in the for loop since those items/values were constant which made the function far more efficient.
+The main.js file was optimized by moving variables from the for loops of the changePizzaSizes and updatePositions functions to the outside of the loop. The variables that were moved were not needed in the for loop since those items/values were constant which made the function redo unnecessary work.
 
 The pizzeria page can be accessed by through here..... 
 
