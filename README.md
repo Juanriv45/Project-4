@@ -1,3 +1,9 @@
+The main.js file was optimized by moving variables from the for loops of the changePizzaSizes and updatePositions functions to the outside of the loop. The variables that were moved were not needed in the for loop since those items/values were constant which made the function far more efficient.
+
+The pizzeria page can be accessed by through here..... 
+
+http://juanriv45.github.io/frontend-nanodegree-mobile-portfolio/views/pizza.html
+
 ## Website Performance Optimization portfolio project
 
 Your challenge, if you wish to accept it (and we sure hope you will), is to optimize this online portfolio for speed! In particular, optimize the critical rendering path and make this page render as quickly as possible by applying the techniques you've picked up in the [Critical Rendering Path course](https://www.udacity.com/course/ud884).
