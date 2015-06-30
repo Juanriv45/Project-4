@@ -2,7 +2,7 @@ The main.js file was optimized by moving variables from the for loops of the cha
 
 The pizzeria page can be accessed by through here..... 
 
-http://juanriv45.github.io/frontend-nanodegree-mobile-portfolio/views/pizza.html
+http://juanriv45.github.io/Project-4/
 
 ## Website Performance Optimization portfolio project
 
